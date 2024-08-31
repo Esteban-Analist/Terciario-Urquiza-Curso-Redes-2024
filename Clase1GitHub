@@ -17,4 +17,9 @@ html
 	</head>
 	<body>
 	</body>
+		| Alumno 1 | Clases | Asistencia |
+		|-----------|:-------:|----------:|
+		|fila 1, col1| fila 2, col 2| fila 3, col3|
+		|fila 1, col1| fila 2, col 2| fila 3, col3|
+		|fila 1, col1| fila 2, col 2| fila 3, col3|
 </html>
