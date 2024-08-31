@@ -26,6 +26,6 @@ classDiagram
         +removeMember(Member member)
     }
 
-    Libro --> biblioteca : contiene
-    Miembro --> biblioteca : registra
-    bibliotecario --> biblioteca : administra
+    Libro --> Dinosaurio : contiene
+    Miembro --> Rataplasma : registra
+    bibliotecario --> SinIdeas : administra
