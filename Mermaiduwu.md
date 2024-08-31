@@ -1,24 +1,23 @@
 ```mermaid
 classDiagram
-    class Libro {
-        +String titulo
-        +String autores
-        +String año
+    class Dinosaurio {
+        +String Poder
+        +String Velocidad
+        +String Cosa copada
     }
 
-    class Miembro {
-        +String Nombre
-        +String Apellido
-        +String Libro prestado
+    class Rataplasma {
+        +String texto
+        +String gato
+        +String Siesta
     }
 
-    class bibliotecario {
-        +String Jorge
-        +String Librero
-        +String Ocupado
+    class Paleontologo {
+        +String Jorge gorno
+        +String Jorge Paquez
     }
 
-    class biblioteca {
+    class SinIdeas {
         +String name
         +List<Book> books
         +List<Member> members
