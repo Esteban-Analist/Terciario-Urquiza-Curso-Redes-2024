@@ -1,1 +1,20 @@
 Hola estoy creando un archivo de tipo MD.
+
+# Primer nivel de encabezado
+## Segundo nivel de encabezado
+### Tercer nivel de encabezado
+#### Cuarto nivel de encabezado
+
+Primer nivel de encabezado
+==========================
+
+Segundo nivel de encabezado
+--------------------------
+html
+<html>
+	<head>
+    	<title>Clase de profe 1</title>
+	</head>
+	<body>
+	</body>
+</html>
