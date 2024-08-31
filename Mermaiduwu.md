@@ -29,3 +29,5 @@ classDiagram
     Libro --> Dinosaurio : contiene
     Miembro --> Rataplasma : registra
     bibliotecario --> SinIdeas : administra
+    Paleontologo --> Dinosaurio : investiga
+    Paleontologo --> Rataplasma : Come
