@@ -1,4 +1,3 @@
-```mermaid
 Hola estoy creando un archivo de tipo MD.
 
 # Primer nivel de encabezado
